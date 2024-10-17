@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+/// <summary>
+/// {#CLASS_LOGICAL_NAME}
+/// </summary>
+namespace {#NAMESPACE}
+{
+    class {#DTO_CLASS_NAME}
+    {
+		{#PROPERTY_PART}
+    }
+}

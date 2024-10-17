@@ -1,0 +1,10 @@
+﻿        /// <summary>
+        /// {#PROPERTY_LOGICAL_NAME}
+        /// </summary>
+        private {#CS_PROPERTY_DATA_TYPE} {#CS_PRIVATE_NAME};
+
+        public {#CS_PROPERTY_DATA_TYPE} {#CS_PROPERTY_NAME}
+        {
+            set { this.{#CS_PRIVATE_NAME}= value; }
+            get { return this.{#CS_PRIVATE_NAME}; }
+        }

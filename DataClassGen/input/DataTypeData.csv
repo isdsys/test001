@@ -1,0 +1,7 @@
+﻿nvarchar, String 
+character varying, String 
+datetime, DateTime
+date, DateTime
+integer, int
+serial, int
+decimal, Decimal
